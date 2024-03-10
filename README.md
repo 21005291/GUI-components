@@ -140,7 +140,8 @@ public class MainActivity extends AppCompatActivity {
 <img width="1080" alt="Screenshot 2024-03-10 184056" src="https://github.com/21005291/GUI-components/assets/112933167/5978d735-8827-457d-bd5b-d637137883f3">
 
 
-<img width="1080" alt="Screenshot 2024-03-10 184056" src="https://github.com/21005291/GUI-components/assets/112933167/5a6306f8-4cda-43e1-b461-7318bae3edd2">
+<img width="266" alt="Screenshot 2024-03-10 184110" src="https://github.com/21005291/GUI-components/assets/112933167/45222791-1e7a-4a50-a7ad-0ffcb9affde7">
+
 
 
 
