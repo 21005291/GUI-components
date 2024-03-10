@@ -17,8 +17,8 @@ Latest Version Android Studio
 ```
 /*
 Program to print the text “GUIcomponent”.
-Developed by:
-Registeration Number :
+Developed by : ATLURU SAI VARDHAN REDDY
+Registeration Number : 212221040022
 */
 ```
 
