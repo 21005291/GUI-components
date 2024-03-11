@@ -29,7 +29,7 @@ Registeration Number : 212221040022
 */
 ```
 
-MAIN ACTIVITY-XML
+ACTIVITY MAIN-XML
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -134,16 +134,11 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 
-<img width="1080" alt="Screenshot 2024-03-10 184041" src="https://github.com/21005291/GUI-components/assets/112933167/aabdab7a-d478-43cd-833b-eb08c9fb76c2">
+<img width="1079" alt="Screenshot 2024-03-11 092753" src="https://github.com/21005291/GUI-components/assets/112933167/43bb6b49-b8c9-4957-9992-2c10fc99d49c">
 
+<img width="1080" alt="Screenshot 2024-03-11 092811" src="https://github.com/21005291/GUI-components/assets/112933167/478d6856-adbf-4afc-875b-63afb185e1b2">
 
-<img width="1080" alt="Screenshot 2024-03-10 184056" src="https://github.com/21005291/GUI-components/assets/112933167/5978d735-8827-457d-bd5b-d637137883f3">
-
-
-<img width="266" alt="Screenshot 2024-03-10 184110" src="https://github.com/21005291/GUI-components/assets/112933167/45222791-1e7a-4a50-a7ad-0ffcb9affde7">
-
-
-
+<img width="541" alt="Screenshot 2024-03-11 092843" src="https://github.com/21005291/GUI-components/assets/112933167/96c209a9-570b-4bba-9401-779ae212e1b3">
 
 ## RESULT
 Thus a Simple Android Application that uses GUI Components with Fonts and Colors using Android Studio is developed and executed successfully.
